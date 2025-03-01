@@ -1,18 +1,18 @@
 # Student_Information_System
 PHP Project
 
-## Introduction
+# Introduction
 
 This is a PHP project that can be run locally using XAMPP. It requires a database to function properly. This README provides instructions for setting up and running the project.
 
-## Prerequisites
+# Prerequisites
 
 - **XAMPP**: Make sure you have XAMPP installed on your machine. You can download it from [Apache Friends](https://www.apachefriends.org/index.html).
 - **PHP**: This project requires PHP to be set up within XAMPP.
 - **Database**: A MySQL database is required to store and manage project data.
                 You can see the database needed in the folder database/icstitde_mis.sql.
 
-## Installation
+# Installation
 
 1. **Clone the Repository**:
    Open your terminal and run the following command to clone the project:
@@ -36,14 +36,10 @@ C:\xampp\htdocs\
 >> Update any configuration files as necessary (e.g., database connection settings).
 Ensure that all required dependencies are present.
 
-
-
 >> **Running the Project**
 Open your web browser and navigate to:
 http://localhost/Student_Information_System
 Replace Student_Information_System with the folder name if you renamed it.
-
-
 
 ## Usage
 This project is a Student Information System.
@@ -51,8 +47,8 @@ This project is a Student Information System.
 **Student Login:**
 Once logged in, students can view all their information.
       Login Credentials:
-      Student No: 20-09363
-      Password: Marissa
+      **Student No:** 20-09363
+      **Password:** Marissa
 
 **Admin Login:**
 The admin side is located at:
@@ -60,8 +56,8 @@ http://localhost/Student_Information_System/admin/
 
 The admin can manage all student records, including schedules, grades, and account inquiries.
       Login Credentials:
-      Username: admin
-      Password: admin123
+      **Username:** admin
+      **Password:** admin123
 
 
 
