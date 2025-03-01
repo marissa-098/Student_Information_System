@@ -1,0 +1,73 @@
+[30-May-2024 04:14:57 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[30-May-2024 04:14:57 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[30-May-2024 04:14:57 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[30-May-2024 04:14:57 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[30-May-2024 04:14:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[30-May-2024 04:14:57 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 01:59:23 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 01:59:23 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 01:59:23 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 01:59:23 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 01:59:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 01:59:23 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/request.php on line 3
+[10-Jun-2024 01:59:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/request.php on line 5
+[10-Jun-2024 04:34:21 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 04:34:21 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 04:34:21 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 04:34:21 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 04:34:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 04:34:21 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 04:40:29 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 04:40:29 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 04:40:29 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 04:40:29 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 04:40:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 04:40:29 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 05:02:48 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 05:02:48 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 05:02:48 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 05:02:48 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 05:02:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 05:02:48 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 05:10:34 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 05:10:34 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 05:10:34 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 05:10:34 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 05:10:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 05:10:34 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 05:38:47 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 05:38:47 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 05:38:47 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 05:38:47 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 05:38:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 05:38:47 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 05:39:15 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 05:39:15 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 05:39:15 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 05:39:15 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 05:39:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 05:39:15 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 05:42:41 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 05:42:41 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 05:42:41 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 05:42:41 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 05:42:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 05:42:41 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 06:07:28 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 06:07:28 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 06:07:28 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 06:07:28 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 06:07:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 06:07:28 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jun-2024 06:14:49 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jun-2024 06:14:49 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jun-2024 06:14:49 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jun-2024 06:14:49 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jun-2024 06:14:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jun-2024 06:14:49 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168
+[10-Jul-2024 01:01:18 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/index.php on line 5
+[10-Jul-2024 01:01:18 UTC] PHP Warning:  Undefined variable $st_id in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 89
+[10-Jul-2024 01:01:18 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/navbar.php on line 203
+[10-Jul-2024 01:01:18 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 2
+[10-Jul-2024 01:01:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/icstitde/public_html/SIS/college-students/include/navbar.php:220) in /home/icstitde/public_html/SIS/college-students/include/sidebar.php on line 4
+[10-Jul-2024 01:01:18 UTC] PHP Warning:  Undefined array key "id" in /home/icstitde/public_html/SIS/college-students/home.php on line 168

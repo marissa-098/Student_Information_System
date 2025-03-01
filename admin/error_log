@@ -1,0 +1,17 @@
+[28-May-2024 12:15:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/icstitde/public_html/SIS/config/conn.php:8
+Stack trace:
+#0 /home/icstitde/public_html/SIS/admin/index.php(5): include()
+#1 {main}
+  thrown in /home/icstitde/public_html/SIS/config/conn.php on line 8
+[30-May-2024 04:47:05 UTC] PHP Warning:  Undefined array key "admin_id" in /home/icstitde/public_html/SIS/admin/index.php on line 6
+[30-May-2024 04:51:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'description' at row 1 in /home/icstitde/public_html/SIS/admin/announcement/updateAnnounce.php:292
+Stack trace:
+#0 /home/icstitde/public_html/SIS/admin/announcement/updateAnnounce.php(292): PDOStatement->execute()
+#1 /home/icstitde/public_html/SIS/admin/index.php(133): include('/home/icstitde/...')
+#2 {main}
+  thrown in /home/icstitde/public_html/SIS/admin/announcement/updateAnnounce.php on line 292
+[10-Jun-2024 04:24:58 UTC] PHP Warning:  Undefined array key "admin_id" in /home/icstitde/public_html/SIS/admin/index.php on line 6
+[10-Jun-2024 06:15:48 UTC] PHP Warning:  Undefined array key "admin_id" in /home/icstitde/public_html/SIS/admin/index.php on line 6
+[04-Jul-2024 02:43:30 UTC] PHP Warning:  Undefined array key "admin_id" in /home/icstitde/public_html/SIS/admin/index.php on line 6
+[04-Jul-2024 02:44:01 UTC] PHP Warning:  Undefined array key "admin_id" in /home/icstitde/public_html/SIS/admin/index.php on line 6
+[10-Jul-2024 01:08:27 UTC] PHP Warning:  Undefined array key "admin_id" in /home/icstitde/public_html/SIS/admin/index.php on line 6
