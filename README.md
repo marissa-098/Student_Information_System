@@ -24,16 +24,16 @@ Move the project folder to the XAMPP htdocs directory. By default, it is located
 C:\xampp\htdocs\
 
 3. **Set Up the Database:**
->> Open XAMPP Control Panel and start the Apache and MySQL services.
->> Open your web browser and navigate to http://localhost/phpmyadmin.
->> Create a new database for the project. You can name it student_information_system.
+    >> Open XAMPP Control Panel and start the Apache and MySQL services.
+    >> Open your web browser and navigate to http://localhost/phpmyadmin.
+    >> Create a new database for the project. You can name it student_information_system.
 **Import the database schema:**
    >> Go to the "Import" tab in phpMyAdmin.
    >> Select the SQL file located in the database folder of your project.
    >> Click "Go" to import the database.
 >>
 4. **Configuration:
->> Update any configu**ration files as necessary (e.g., database connection settings).
+>> Update any configuration files as necessary (e.g., database connection settings).
 Ensure that all required dependencies are present.
 
 
