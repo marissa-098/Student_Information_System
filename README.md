@@ -22,7 +22,7 @@ This is a PHP project that can be run locally using XAMPP. It requires a databas
 2.**Move Project to XAMPP Directory:**
 - Move the project folder to the XAMPP htdocs directory.
 - By default, it is located at:
-**C:\xampp\htdocs\**
+ C:\xampp\htdocs\
 
 3. **Set Up the Database:**
    - Open XAMPP Control Panel and start the Apache and MySQL services.
